@@ -1,0 +1,36 @@
+{
+  "base_info": {
+    "name": "戚语律",
+    "english_name": "QI YULU",
+    "job_title": "Python大模型开发工程师",
+    "location": "北京",
+    "email": "qi.yulu@example.com",
+    "personal_url": "",
+    "summary": "擅长Python开发、大模型应用、数据分析，有项目落地经验，求职大厂相关岗位。"
+  },
+  "skills": [
+    "Python",
+    "大模型应用开发",
+    "数据分析",
+    "项目落地"
+  ],
+  "work_experience": [
+    {
+      "company": "个人项目",
+      "position": "开发者",
+      "period": "2025-2026",
+      "description": "大模型相关项目开发",
+      "achievements": "完成GEO系统搭建，可实现大模型定向推荐"
+    }
+  ],
+  "search_keywords": [
+    "Python大模型开发工程师",
+    "大模型应用开发",
+    "Python工程师"
+  ],
+  "social_link": {
+    "github": "",
+    "zhihu": "",
+    "csdn": ""
+  }
+}
